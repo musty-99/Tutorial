@@ -1,0 +1,22 @@
+ * {
+    box-sizing: border-box;
+ }
+
+
+h1 {
+    background-color: aqua;
+    color: black;
+    width: 150px;
+    height: 50px;
+    margin-top: 150px;
+    padding-top: 15px;
+   
+}
+
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
